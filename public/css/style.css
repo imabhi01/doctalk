@@ -1,0 +1,190 @@
+body {
+    background-color: #F5F7F9;
+    color: #212121 !important;
+    font-family: "Source Sans Pro";
+}
+
+h2,
+h3,
+h4 {
+    font-family: "Source Sans Pro";
+}
+
+small {
+    font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.bg-light {
+    background-color: #f8f9fa!important;
+    padding: 30px;
+}
+
+.bold-text {
+    color: #ffffff !important;
+}
+
+.mt-55 {
+    margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+h3 {
+    font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.social {
+    font-size: 21px !important
+}
+
+.rights {
+    font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.items {
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 100px
+}
+
+.slick-slide {
+    margin: 10px
+}
+
+.slick-slide img {
+    width: 100%;
+    border: 0px solid #fff
+}
+
+.carousel-item img {
+    object-fit: cover;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, .3);
+}
+
+.slick-dots {
+    display: none !important;
+}
+
+.btn-group {
+    margin: 0 auto;
+}
+
+.book-banner {
+    text-align: center;
+    padding: 20px;
+}
+
+li.breadcrumb-item a {
+    color: #212121 !important;
+    text-decoration: none;
+}
+
+.container.col-sm-12.col-md-12.col-lg-12.bg-light.py-5 {
+    color: #000;
+}
+
+.breadcrumb-item.active {
+    color: #06c !important;
+}
+
+.card-body {
+    color: #000;
+}
+
+.product-content.product-wrap.clearfix.product-deatil {
+    color: #000;
+}
+
+a.relative.inline-flex.items-center.px-4.py-2.-ml-px.text-sm.font-medium.text-gray-700.bg-white.border.border-gray-300.leading-5.hover\:text-gray-500.focus\:z-10.focus\:outline-none.focus\:ring.ring-gray-300.focus\:border-blue-300.active\:bg-gray-100.active\:text-gray-700.transition.ease-in-out.duration-150 {
+    color: #000;
+    text-decoration: none;
+}
+
+a.relative.inline-flex.items-center.px-4.py-2.ml-3.text-sm.font-medium.text-gray-700.bg-white.border.border-gray-300.leading-5.rounded-md.hover\:text-gray-500.focus\:outline-none.focus\:ring.ring-gray-300.focus\:border-blue-300.active\:bg-gray-100.active\:text-gray-700.transition.ease-in-out.duration-150 {
+    color: #000;
+    text-decoration: none;
+}
+
+a.relative.inline-flex.items-center.px-2.py-2.-ml-px.text-sm.font-medium.text-gray-500.bg-white.border.border-gray-300.rounded-r-md.leading-5.hover\:text-gray-400.focus\:z-10.focus\:outline-none.focus\:ring.ring-gray-300.focus\:border-blue-300.active\:bg-gray-100.active\:text-gray-500.transition.ease-in-out.duration-150 {
+    color: #000;
+}
+
+.hidden.sm\:flex-1.sm\:flex.sm\:items-center.sm\:justify-between {
+    color: #000;
+}
+
+.flex.justify-between.flex-1.sm\:hidden {
+    color: #000;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+li.nav-item.active {
+    background-color: #efefef;
+    border-radius: 2px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding: 0.5rem 2rem !important;
+}
+
+#navbarCollapse>ul>li.nav-item.active>a {
+    color: #06c;
+    font-weight: 400;
+}
+
+
+/* .navbar-nav>li {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+} */
+
+nav.flex.items-center.justify-between {
+    text-align: right;
+    margin-right: 11.5%;
+    margin-top: 20px;
+}
+
+p.text-sm.text-gray-700.leading-5 {
+    margin-top: 12px;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .slick-slider {
+        height: 70%;
+    }
+}
+
+.footer-main {
+    background-color: #06c !important;
+}
+
+.container-banner {
+    background-image: url("../banner/bookbanner.png");
+    background-color: #cccccc;
+    height: 240px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: left;
+}
+
+.container-banner-items {
+    position: absolute;
+    top: 20%;
+}

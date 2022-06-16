@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "type": "book",
+      "title": null,
+      "firstname": "rafatt",
+      "mainname": "Zandstra",
+      "price": "44.99",
+      "numpages": 408
+    },
+    {
+      "id": 2,
+      "type": "cd",
+      "title": "Seeking Thrills",
+      "firstname": "",
+      "mainname": "Georgia",
+      "price": 8.5,
+      "playlength": 45
+    },
+    {
+      "id": 3,
+      "type": "cd",
+      "title": "title only",
+      "firstname": "kamal",
+      "mainname": "harris",
+      "price": 0,
+      "playlength": 0
+    },
+    {
+      "id": 4,
+      "type": "book",
+      "title": null,
+      "firstname": "game of thrones",
+      "mainname": "end game",
+      "price": 0,
+      "numpages": 0
+    },
+    {
+      "id": 5,
+      "type": "cd",
+      "title": "sdsds",
+      "firstname": "sdsds",
+      "mainname": null,
+      "price": 0,
+      "playlength": 0
+    }
+  ]
